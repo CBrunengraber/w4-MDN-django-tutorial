@@ -1,3 +1,9 @@
 {
-    "python.pythonPath": "/Users/cb/.local/share/virtualenvs/w4-MDN-django-tutorial-EwBJ9kPu/bin/python"
+    "python.pythonPath": "/Users/cb/.local/share/virtualenvs/w4-MDN-django-tutorial-EwBJ9kPu/bin/python",
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#00b3e6",
+        "titleBar.inactiveBackground": "#005a73",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveForeground": "#10455a"
+    }
 }

@@ -13,4 +13,6 @@
   {% else %}
     <p>There are no books in the library.</p>
   {% endif %}       
+  {% if perms.catalog.can_mark_returned %}- <a href="{% url 'renew-book-librarian' bookinst.id %}">Renew</a>  {% endif %}
+
 {% endblock %}
